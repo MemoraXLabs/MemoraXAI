@@ -62,7 +62,13 @@ History alone does not compound understanding.
 
 ## Specification
 
-Current draft: **SPEC.md (v0.1)**  
-Primitives, operations, and core concepts for identity-preserving memory.
+MemoraX defines the canonical memory layer for long-horizon intelligence.
 
-*For formal primitives and operations, see [SPEC.md](SPEC.md).*
+- **Current specification:** [`SPEC.md`](./SPEC.md) (v0.2)  
+  Extended conceptual specification covering scope, lifecycle semantics, governance, and reference use cases.
+
+- **Archived specification:** [`SPEC-v0.1.md`](./SPEC-v0.1.md)  
+  Original foundational definition of identity-preserving memory primitives and core operations.
+
+SPEC v0.1 establishes the core ontology.  
+SPEC v0.2 extends it with lifecycle and governance semantics while preserving the original primitives and philosophy.
